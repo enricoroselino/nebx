@@ -3,7 +3,7 @@ import setuptools
 
 setuptools.setup(
     name="nebx",
-    version="0.1.0",
+    version="0.1.1",
     description='nebx is a python "Swiss Army knife" to orchestrate existing python packages, reducing boilerplate codes',
     long_description=pathlib.Path("README.md").read_text(),
     long_description_content_type="text/markdown",
