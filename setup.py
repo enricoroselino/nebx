@@ -28,7 +28,8 @@ setuptools.setup(
     install_requires=[
         "schedule>=1.2.1",
         "httpx>=0.27.0",
-        "random_user_agent>=1.0.1"
+        "random_user_agent>=1.0.1",
+        "iteration_utilities"
     ],
     packages=setuptools.find_packages(),
     include_package_data=True
